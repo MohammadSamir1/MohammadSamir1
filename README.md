@@ -1,6 +1,21 @@
+# 💫 Hi 👋, I'm Mohammad Samir
+**A passionate Software Developer || Backend and Frontend Engineer **
 
+Email Me 👉 ✉️ **md.kalamm359@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Some Project
+- 🌱 **I’m currently learning:** DSA in C++
+- 👯 **I’m looking to collaborate on:** Memory Management System
+- 🤔 **I’m looking for help with:** Management Project
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** md.kalamm359@gmail.com
+- 😄 **Pronouns:** Mohammad Samir
+- ⚡ **Fun fact:** I Love Learn New Thing  and  Like to solve Critical Problem
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_samir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad Samir) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammad Samir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadsamir4801@gmail.com) 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
